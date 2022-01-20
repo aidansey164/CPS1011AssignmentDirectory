@@ -1,0 +1,4 @@
+C:/Users/aidan/CLionProjects/CPS1011_Task2/cmake-build-debug/CMakeFiles/CPS1011_Task2.dir
+C:/Users/aidan/CLionProjects/CPS1011_Task2/cmake-build-debug/CMakeFiles/Datatable.dir
+C:/Users/aidan/CLionProjects/CPS1011_Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aidan/CLionProjects/CPS1011_Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
